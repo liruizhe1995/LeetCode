@@ -1,4 +1,1 @@
-# leekcode
-# LeetCode
-# LeetCode
 # LeetCode
