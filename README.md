@@ -12,3 +12,4 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Topics         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/94.java) | O(n) | O(n) | Medium | Hash Table, Stack, Tree
+144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/144.java) | (O(n) | O(n) | Medium |Hash Table, Stack, Tree
