@@ -16,6 +16,10 @@
 
 
 ### Dynamic Programming
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Topics         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/70.java) | O(n) | O(1) | Easy | Dynamic Programming
+
 
 
 ### 
