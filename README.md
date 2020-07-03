@@ -14,6 +14,11 @@
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/94.java) | O(n) | O(n) | Medium | Hash Table, Stack, Tree
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/144.java) | O(n) | O(n) | Medium |Hash Table, Stack, Tree
 
+### DFS
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Topics         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/108.java) | O(n) | O(n) | Medium | DFS, Tree
+
 
 ### Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Topics         | Note| 
