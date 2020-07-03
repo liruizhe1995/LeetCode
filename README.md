@@ -23,4 +23,6 @@
 
 
 ### Trie
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Topics         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/208.java) | O(m) | O(m) / O(n) | Medium | Trie
