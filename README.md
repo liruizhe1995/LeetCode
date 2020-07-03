@@ -23,7 +23,7 @@
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/152.java) | O(n) | O(1) | Medium | Dynamic Programming
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/64.java) | O(m*n) | O(1) | Medium | Dynamic Programming
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/322.java) | O(S*n) S -> amount, n -> denomation count | O(S) | Medium | Dynamic Programming
-32 | [Longest Valid Parentheses](https://leetcode.com/problems/clongest-valid-parentheses/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/32.java) | O(n) | O(n) | Hard | Dynamic Programming
+32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [JAVA](https://github.com/liruizhe1995/LeetCode/blob/master/Documents/leetcode/32.java) | O(n) | O(n) | Hard | Dynamic Programming
 
 
 ### Trie
